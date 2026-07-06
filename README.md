@@ -18,27 +18,23 @@ Loading------
 
 ### ► Overview
 
-- **Games and Toys** generate the **least revenue (0.7M)** among all product categories. Given how small this contribution is compared to other categories, it may be worth **reducing the number of items stocked here** and redirecting that budget toward stronger-performing categories like **Home Appliances** or **Cameras**.
-
-- **Revenue drops sharply every April.** Since this dip appears to be a recurring pattern, the business can plan for it in advance by **reducing stock levels and adjusting staffing ahead of time**, rather than reacting only after sales decline.
-
-- **Sales build up steadily from September through December.** To be fully prepared for this seasonal rise, **inventory ordering should begin around August**, rather than in December when the increase has already started and it may be too late to restock efficiently.
-
-- **In-store orders account for nearly 79% of all orders, while online contributes only 21%.** Despite this gap in order volume, the **Average Order Value is similar across both channels.** This suggests that online customers spend just as much per order as in-store customers. **The real opportunity lies in increasing how many people shop online, not in trying to increase how much they spend per order.**
+- **Games and Toys** generate the **least revenue (0.7M)** among all categories. It may be worth **reducing inventory** here and shifting that budget toward stronger-performing categories like **Home Appliances** or **Cameras**.
+- **Revenue drops sharply every April.** Since this pattern repeats, the business can **reduce inventory and staffing in advance** instead of reacting after sales decline.
+- **Sales steadily increase from September to December.** To prepare for this seasonal demand, **inventory planning should begin around August**, not December.
+- **In-store accounts for 79% of total orders, while online contributes only 21%.** Despite this, **Average Order Value is almost identical** across both channels, suggesting the biggest growth opportunity is **increasing online orders rather than increasing spend per order.**
 
 ### ► Product & Brand Analysis
 
-- The **top 4 brands account for approximately 69% of total revenue.** This indicates that the business relies heavily on a small group of brands to generate most of its sales. If any one of these leading brands experiences a slowdown, supply disruption, or drop in customer demand, it could meaningfully affect overall revenue, making this **level of concentration worth monitoring.**
+- The **top 4 brands generate 69% of total revenue**, showing a **heavy reliance on a small group of brands.** Any disruption to these brands could significantly impact overall sales.
+- **Adventure Works and Contoso** contribute **21.3% and 19.3% of revenue**, making them the strongest-performing brands. Since revenue drops noticeably after the top 3–4 brands, **marketing and inventory efforts should focus on this leading group.**
+- **Tailspin Toys** is the **lowest-performing brand by revenue.** Before increasing marketing spend, the business should determine whether the issue is **pricing, stock availability, or low customer demand**, as each requires a different solution.
 
-- **Adventure Works and Contoso** are closely matched, holding **21.3% and 19.3% of revenue** respectively. Rather than a single brand dominating the market, the more significant drop in performance occurs after the **top 3–4 brands.** This suggests that **marketing budget and stock priority are better concentrated on this leading group**, rather than spread evenly across all ten brands, many of which contribute only marginally to overall revenue.
-
-- **Tailspin Toys is the lowest-performing brand by revenue.** Before increasing marketing investment to improve its performance, it would be worth identifying the actual cause, whether it's **pricing, limited stock availability, or genuinely low customer demand.** Each of these issues requires a different solution, and **marketing spend alone would not resolve a stock or pricing problem.**
 
 ### ► Regional Analysis
 
-- The **United States contributes 29.9M in revenue, more than half of the business's total.** This level of dependence on a single market means there is **no comparably sized market to fall back on** if US sales were to slow down. **Growing revenue in other countries** would help reduce this reliance and make the business more resilient to market-specific downturns.
-
-- **Italy and Canada have the slowest average delivery times**, but they are also among the **smaller revenue markets.** Since relatively little revenue is tied to these countries, **improving delivery speed here is not an urgent priority** at the moment, though this could change if the business plans to expand in these markets going forward.
+- The **United States contributes 29.9M in revenue**, accounting for **more than half of total sales.** This creates a **heavy dependence on a single market**, making revenue diversification important.
+- **Italy and Canada** have the **slowest average delivery times**, but they also contribute relatively **low revenue.** Improving delivery speed here is **not an immediate priority** unless the business plans to expand in these markets.
+- **Germany, the US, and the UK** generate the **majority of total revenue.** Improving delivery performance in these key markets would **protect more revenue** than focusing on smaller markets.
 
 
 ## ► Business Value
