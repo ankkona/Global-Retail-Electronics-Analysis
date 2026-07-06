@@ -12,7 +12,9 @@ An end-to-end Business Intelligence project built using the **Global Electronics
 
 ## Dashboard Pages
 
-Loading------
+<img src="https://github.com/ankkona/Global-Retail-Electronics-Analysis/blob/main/Dashboard%20Images/Global%20Electronics%20Retailer%20Analysis_page-0001.jpg" width="1500"/>
+<br><img src="https://github.com/ankkona/Global-Retail-Electronics-Analysis/blob/main/Dashboard%20Images/Global%20Electronics%20Retailer%20Analysis_page-0002.jpg" width="1500"/>
+<br><img src="https://github.com/ankkona/Global-Retail-Electronics-Analysis/blob/main/Dashboard%20Images/Global%20Electronics%20Retailer%20Analysis_page-0003.jpg" width="1500"/>
 
 # Key Business Insights
 
