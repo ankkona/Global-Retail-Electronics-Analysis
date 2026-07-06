@@ -16,29 +16,30 @@ Loading------
 
 # Key Business Insights
 
-## ► Overview
+### ► Overview
 
-- **Computers** lead in both **Revenue** and **Profit**, making them the strongest category for continued investment.
--  **Games & Toys** rank last in both metrics ($0.2M), making them a strong candidate for inventory reduction while reallocating investment toward higher-performing categories like **Home Appliances** and **Cameras**.
-- **TV & Video** generates lower revenue than **Cell Phones** but delivers higher profit, suggesting TV products deserve greater promotional focus despite lower sales.
-- **Music, Movies & Audio Books** produces similar revenue to **Audio** while generating higher profit, making it the stronger category for future expansion.
-- Revenue consistently falls during **April**, allowing inventory and staffing to be planned proactively.
-- Sales steadily increase from **September to December**, indicating inventory should begin ramping up by **August**.
-- Online and In-store **Average Order Value** are nearly identical (2.0K vs 2.1K), suggesting future growth should focus on increasing online order volume rather than basket size.
+- **Games and Toys** generate the **least revenue (0.7M)** among all product categories. Given how small this contribution is compared to other categories, it may be worth **reducing the number of items stocked here** and redirecting that budget toward stronger-performing categories like **Home Appliances** or **Cameras**.
 
-## ► Product & Brand Analysis
+- **Revenue drops sharply every April.** Since this dip appears to be a recurring pattern, the business can plan for it in advance by **reducing stock levels and adjusting staffing ahead of time**, rather than reacting only after sales decline.
 
-- The **Top 4 Brands** contribute approximately **75%** of total revenue, revealing significant dependence on a small number of brands.
-- **Adventure Works** earns more than twice the revenue of the next-highest brand, making it the highest priority for stock availability and marketing investment.
-- **Tailspin Toys** is the lowest-performing brand. Before increasing marketing spend, pricing, stock availability, and customer demand should be evaluated.
-- The **Top 10 Products** are dominated by Desktop PCs, indicating strong dependence on a single product line.
-- **Adventure Works** leads total brand revenue, while **WWI** owns the single highest-selling product, highlighting the difference between portfolio strength and individual product success.
+- **Sales build up steadily from September through December.** To be fully prepared for this seasonal rise, **inventory ordering should begin around August**, rather than in December when the increase has already started and it may be too late to restock efficiently.
 
-## ► Regional Analysis
+- **In-store orders account for nearly 79% of all orders, while online contributes only 21%.** Despite this gap in order volume, the **Average Order Value is similar across both channels.** This suggests that online customers spend just as much per order as in-store customers. **The real opportunity lies in increasing how many people shop online, not in trying to increase how much they spend per order.**
 
-- The **United States** contributes **$29.87M** of **$55.76M** total revenue, accounting for more than half of all sales and creating geographic concentration risk.
-- **Canada** and **Australia** have the slowest average delivery times but also contribute the lowest revenue, making logistics improvements there a lower priority.
-- The **United States**, **United Kingdom**, and **Germany** combine the highest revenue with the fastest deliveries, indicating logistics resources are aligned with the most valuable markets.
+### ► Product & Brand Analysis
+
+- The **top 4 brands account for approximately 69% of total revenue.** This indicates that the business relies heavily on a small group of brands to generate most of its sales. If any one of these leading brands experiences a slowdown, supply disruption, or drop in customer demand, it could meaningfully affect overall revenue, making this **level of concentration worth monitoring.**
+
+- **Adventure Works and Contoso** are closely matched, holding **21.3% and 19.3% of revenue** respectively. Rather than a single brand dominating the market, the more significant drop in performance occurs after the **top 3–4 brands.** This suggests that **marketing budget and stock priority are better concentrated on this leading group**, rather than spread evenly across all ten brands, many of which contribute only marginally to overall revenue.
+
+- **Tailspin Toys is the lowest-performing brand by revenue.** Before increasing marketing investment to improve its performance, it would be worth identifying the actual cause, whether it's **pricing, limited stock availability, or genuinely low customer demand.** Each of these issues requires a different solution, and **marketing spend alone would not resolve a stock or pricing problem.**
+
+### ► Regional Analysis
+
+- The **United States contributes 29.9M in revenue, more than half of the business's total.** This level of dependence on a single market means there is **no comparably sized market to fall back on** if US sales were to slow down. **Growing revenue in other countries** would help reduce this reliance and make the business more resilient to market-specific downturns.
+
+- **Italy and Canada have the slowest average delivery times**, but they are also among the **smaller revenue markets.** Since relatively little revenue is tied to these countries, **improving delivery speed here is not an urgent priority** at the moment, though this could change if the business plans to expand in these markets going forward.
+
 
 ## ► Business Value
 
